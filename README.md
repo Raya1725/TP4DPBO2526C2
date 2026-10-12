@@ -96,9 +96,11 @@ Dokumentasi berupa video dari setiap fitur program.
 
 
 ### Hapus data
-[DeleteData.webm](https://github.com/user-attachments/assets/dead92a7-cc58-43ae-ad5d-30004efd1250)
+[DeleteData.webm](https://github.com/user-attachments/assets/08ce35eb-a610-4c42-a548-b457d2a90dd0)
+
 
 
 ### Error handling
-[ErrorHandling.webm](https://github.com/user-attachments/assets/cc9b1260-4aa6-49fd-bbfd-5f87bd0b4746)
+[ErrorHandling.webm](https://github.com/user-attachments/assets/f753c6c4-5b35-45b5-8aa8-831c40efea45)
+
 
