@@ -4,7 +4,7 @@
 Saya Renaldy Heryana dengan NIM 2509867 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # STRUKTUR REPO
-<img src="Struktur_Repo.png" alt="gambar struktur file" width="400">
+<img src="Dokumentasi/Struktur_Repo.png" alt="gambar struktur file" width="400">
 
 # DESIGN PROGRAM
 
@@ -100,4 +100,5 @@ Dokumentasi berupa video dari setiap fitur program.
 
 
 ### Error handling
+[ErrorHandling.webm](https://github.com/user-attachments/assets/cc9b1260-4aa6-49fd-bbfd-5f87bd0b4746)
 
