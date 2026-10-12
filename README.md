@@ -7,8 +7,7 @@ Saya Renaldy Heryana dengan NIM 2509867 mengerjakan Tugas Praktikum 4 dalam mata
 <img src="Dokumentasi/Struktur_Repo.png" alt="gambar struktur file" width="400">
 
 # DESIGN PROGRAM
-
-
+<img src="Dokumentasi/Design_diagram_class.png" alt="gambar diagram design file" width="400">
 
 # ALUR PROGRAM
 
