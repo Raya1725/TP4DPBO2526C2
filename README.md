@@ -1,4 +1,5 @@
 # TP4DPBO2526C2
+TUGAS PRAKTIKUM 4 DPBO SWING GUI Renaldy Heryana (2509867) Ilmu Komputer C2 Universitas Pendidikan Indonesia 
 
 # janji
 Saya Renaldy Heryana dengan NIM 2509867 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
